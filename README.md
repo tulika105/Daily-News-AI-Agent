@@ -94,7 +94,7 @@ This layer defines **when, how, and in what order** the agent operates.
 
 ## ⏰ Automation
 - Automated using **GitHub Actions**
-- Runs daily at **at morning**
+- Runs daily **at morning**
 - Cron schedule used: `30 2 * * *`
 
 ## 📬 Email Output
