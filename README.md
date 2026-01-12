@@ -7,7 +7,7 @@ An autonomous AI-powered news intelligence agent that operates end-to-end withou
 - Cleans and selects the top 5 important articles  
 - Generates concise summaries using LLaMA via Groq  
 - Sends HTML emails with clickable article links  
-- Runs automatically every day at 8:00 AM IST using GitHub Actions
+- Runs automatically every day morning using GitHub Actions
   
 ## 🧠 Tech Stack
 - Python 3.10  
@@ -94,7 +94,7 @@ This layer defines **when, how, and in what order** the agent operates.
 
 ## ⏰ Automation
 - Automated using **GitHub Actions**
-- Runs daily at **8:00 AM IST**
+- Runs daily at **at morning**
 - Cron schedule used: `30 2 * * *`
 
 ## 📬 Email Output
