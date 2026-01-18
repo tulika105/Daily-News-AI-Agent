@@ -8,7 +8,9 @@ An autonomous AI-powered news intelligence agent that operates end-to-end withou
 - Generates concise summaries using LLaMA via Groq  
 - Sends HTML emails with clickable article links  
 - Runs automatically every day morning using GitHub Actions
-  
+
+<img width="1155" height="290" alt="Screenshot 2026-01-18 142619" src="https://github.com/user-attachments/assets/54cd4e31-c394-470a-95c7-c7b98a4394b3" />
+
 ## 🧠 Tech Stack
 - Python 3.10  
 - NewsAPI  
