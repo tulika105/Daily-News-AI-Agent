@@ -104,4 +104,7 @@ Each daily email contains:
 - Top 5 global news headlines  
 - 2–3 line AI-generated summaries  
 - Clickable links to full articles  
-- Clean, readable HTML formatting  
+- Clean, readable HTML formatting
+  
+## 📧 Sample Email 
+<img width="1524" height="613" alt="Screenshot 2026-02-08 180311" src="https://github.com/user-attachments/assets/a428c909-e03b-4c81-a2ca-6283277599f3" />
