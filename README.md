@@ -98,6 +98,7 @@ This layer defines **when, how, and in what order** the agent operates.
 - Automated using **GitHub Actions**
 - Runs daily **at morning**
 - Cron schedule used: `30 2 * * *`
+> **Note:** The cron workflow ran successfully for 30+ consecutive daily executions and is currently disabled to optimize API usage and control operational costs.
 
 ## 📬 Email Output
 Each daily email contains:
